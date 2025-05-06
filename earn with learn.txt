@@ -1,0 +1,13 @@
+
+flappy-bird/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   ├── bird.png
+│   ├── pipe-top.png
+│   ├── pipe-bottom.png
+│   ├── background.png
+│   ├── ground.png
+│   ├── flap.wav
+│   └── hit.wav
